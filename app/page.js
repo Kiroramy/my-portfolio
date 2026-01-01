@@ -51,9 +51,9 @@ export default function MyPortfolio() {
   alt="Profile"
   width={160}
   height={160}
-              alt="Profile"
-              className="relative w-45 h-45 rounded-2xl object-cover border border-white/20"
-            />
+  className="relative w-40 h-40 rounded-2xl object-cover border border-white/20"
+/>
+
           </div>
           <div className="flex-1 text-center md:text-right">
             <h1 className="text-4xl font-black tracking-tight mb-2">
