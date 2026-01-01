@@ -99,7 +99,7 @@ export default function MyPortfolio() {
               Ready for new challenges
             </p>
             <a
-              href="https://wa.me/201234567890"
+              href="https://wa.me/201553456420"
               target="_blank"
               rel="noopener noreferrer"
               style={{ marginBottom: 7.5 }}
