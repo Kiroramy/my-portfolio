@@ -48,7 +48,7 @@ export default function MyPortfolio() {
 <img
   src="/my-portfolio/kiro.jpg"
   alt="Profile"
-  className="relative w-45 h-45 rounded-2xl object-cover border border-white/20"
+  className="relative w-48 h-48 rounded-2xl object-cover border border-white/20"
 />
 
 
