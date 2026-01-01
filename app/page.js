@@ -46,7 +46,7 @@ export default function MyPortfolio() {
           <div className="relative group">
             <div className="absolute inset-0 bg-blue-500 rounded-2xl blur-2xl opacity-20 group-hover:opacity-40 transition duration-500" />
             <img
-              src="/kiro.jpg"
+              src="/public/kiro.jpg"
               alt="Profile"
               className="relative w-40 h-40 rounded-2xl object-cover border border-white/20"
             />
