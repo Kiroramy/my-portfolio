@@ -12,7 +12,6 @@ import {
   Globe,
 } from "lucide-react";
 import { FaWhatsapp } from "react-icons/fa";
-import Image from "next/image";
 
 export default function MyPortfolio() {
   const container = {
@@ -46,14 +45,12 @@ export default function MyPortfolio() {
         >
           <div className="relative group">
             <div className="absolute inset-0 bg-blue-500 rounded-2xl blur-2xl opacity-20 group-hover:opacity-40 transition duration-500" />
-<Image
-  src="/kiro.jpg"
+<img
+  src="/my-portfolio/kiro.jpg"
   alt="Profile"
-  width={160}
-  height={160}
-  priority
   className="relative w-40 h-40 rounded-2xl object-cover border border-white/20"
 />
+
 
           </div>
           <div className="flex-1 text-center md:text-right">
